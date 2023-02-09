@@ -1,2 +1,2 @@
-# odin-recepies
-This project is tests
+# odin-recipes
+
